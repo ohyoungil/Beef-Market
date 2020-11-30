@@ -1,2 +1,2 @@
 # Beef-Market
- HTML, CSS, JavaScript + Idea
+ HTML, CSS + Idea
